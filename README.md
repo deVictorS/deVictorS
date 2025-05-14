@@ -1,5 +1,5 @@
 ## Welcome
-
+- I'm currently studying **IT Management at PUC Minas** and I have a technical background in electronics
 - I’m currently working on IT Support
 - I’m currently learning C# and Python
 - I'm looking to collaborate on an AI, netwok and cloud computing project
