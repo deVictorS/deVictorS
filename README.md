@@ -8,7 +8,8 @@
 
 <p align="left">
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+
 
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
@@ -16,8 +17,6 @@
   <!-- Cisco (alternativa com texto caso ícone falhe) -->
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 
-  <!-- Zabbix (imagem direta do Wikimedia) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Zabbix_logo.svg/120px-Zabbix_logo.svg.png" alt="Zabbix" width="80"/>
 
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
