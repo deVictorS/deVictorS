@@ -8,7 +8,8 @@
 
 <p align="left">
   <!-- AWS -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="60"/>
+
 
 
   <!-- Linux -->
