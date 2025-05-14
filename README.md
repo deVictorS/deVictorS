@@ -5,6 +5,12 @@
 - I'm looking to collaborate on an AI, netwok and cloud computing project
 - How to reach me: www.linkedin.com/in/victorrsantoss
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deVictorS&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVictorS&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
+
+
 
 <p align="left">
 
