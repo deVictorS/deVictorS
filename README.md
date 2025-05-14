@@ -7,14 +7,7 @@
 
 
 <p align="left">
-  <!-- AWS -->
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="60"/>
 
-
-
-
-  <!-- Cisco (alternativa com texto caso ícone falhe) -->
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
     <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
 
@@ -27,5 +20,14 @@
 
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
+
+    <!-- AWS -->
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="60"/>
+
+
+
+
+  <!-- Cisco (alternativa com texto caso ícone falhe) -->
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
 
