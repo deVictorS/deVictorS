@@ -1,7 +1,7 @@
 ## Boas-vindas
 
 - Atualmente estou cursando **Gestão da Tecnologia da Informação na PUC Minas**
-- Tenho formação técnica em eletrônica
+- Tenho formação técnica em eletrônica pelo **Instituto Federal Sudeste de Minas Gerais**
 - Atuo na área de Suporte de TI
 - Busco colaborar em projetos envolvendo **Inteligência Artificial, Redes e Computação em Nuvem**
 - Como me encontrar: [www.linkedin.com/in/victorrsantoss](https://www.linkedin.com/in/victorrsantoss)
