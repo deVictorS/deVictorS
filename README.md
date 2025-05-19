@@ -8,6 +8,9 @@
 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deVictorS&show_icons=true&theme=tokyonight&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deVictorS&layout=compact&theme=tokyonight)
+![Contribuições em sequência](https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight)
+
 
 
 
