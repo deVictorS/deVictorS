@@ -6,13 +6,14 @@
 - Busco colaborar em projetos envolvendo **Inteligência Artificial, Redes e Computação em Nuvem**
 - Como me encontrar: [www.linkedin.com/in/victorrsantoss](https://www.linkedin.com/in/victorrsantoss)
 
+<div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deVictorS&show_icons=true&theme=tokyonight&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deVictorS&layout=compact&theme=tokyonight)
-![Contribuições em sequência](https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight)
-
-
-
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deVictorS&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVictorS&layout=compact&theme=tokyonight"/>
+  <br><br>
+  <img height="180em" src="https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight"/>
+  
+</div>
 
 <p align="left">
 
