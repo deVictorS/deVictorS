@@ -14,7 +14,8 @@
   
   <br><br>
   
-  <img height="180em" src="https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=victorrsantoss&theme=tokyonight&cache_seconds=1800" />
+
 
 </div>
 
