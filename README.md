@@ -7,9 +7,9 @@
 - Como me encontrar: [www.linkedin.com/in/victorrsantoss](https://www.linkedin.com/in/victorrsantoss)
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=deVictorS&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVictorS&layout=compact&theme=tokyonight&cache_seconds=1800" />
-  <img height="200em" src="https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight&cache_seconds=1800" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deVictorS&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVictorS&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="150em" src="https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 
