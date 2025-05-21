@@ -3,7 +3,7 @@
 - Atualmente estou cursando **Gestão da Tecnologia da Informação na PUC Minas**
 - Tenho formação técnica em eletrônica pelo **Instituto Federal Sudeste de Minas Gerais**
 - Atuo na área de Suporte de TI
-- Busco colaborar em projetos envolvendo **Automação, inteligência artificial e IoT**
+- Busco colaborar em projetos envolvendo **automação, inteligência artificial e IoT**
 - Como me encontrar: [www.linkedin.com/in/victorrsantoss](https://www.linkedin.com/in/victorrsantoss)
 
 <div align="center">
