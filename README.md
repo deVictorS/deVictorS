@@ -1,15 +1,11 @@
-## Boas-vindas
+## Victor Santos
 
-- Atualmente estou cursando **Gestão da Tecnologia da Informação na PUC Minas**
-- Tenho formação técnica em eletrônica pelo **Instituto Federal Sudeste de Minas Gerais**
-- Atuo na área de Suporte de TI
-- Busco colaborar em projetos envolvendo **automação, inteligência artificial e IoT**
-- Como me encontrar: [www.linkedin.com/in/victorrsantoss](https://www.linkedin.com/in/victorrsantoss)
+- I am currently pursuing a degree in Information Technology Management at PUC Minas and hold a technical background in Electronics from the Federal Institute of Southeast Minas Gerais. I work in IT Support and am eager to collaborate on projects involving automation, artificial intelligence, and the Internet of Things (IoT).
+- How to find me: [www.linkedin.com/in/victorrsantoss](https://www.linkedin.com/in/victorrsantoss)
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deVictorS&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVictorS&layout=compact&theme=tokyonight&cache_seconds=1800" />
-  <img height="150em" src="https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight&cache_seconds=1800" />
+  <img height="180" src="https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight&cache_seconds=1800" />
+  <img height="181cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVictorS&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 
