@@ -1,7 +1,6 @@
 ## Victor Santos
 
-- I am currently pursuing a degree in Information Technology Management at PUC Minas and hold a technical background in Electronics from the Federal Institute of Southeast Minas Gerais. I work in IT Support and am eager to collaborate on projects involving automation, artificial intelligence, and the Internet of Things (IoT).
-- How to find me: [www.linkedin.com/in/victorrsantoss](https://www.linkedin.com/in/victorrsantoss)
+- IoT, CYS, Networking and Automation.
 
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight&cache_seconds=1800" />
