@@ -1,5 +1,3 @@
-## Victor Santos
-
 
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight&cache_seconds=1800" />
