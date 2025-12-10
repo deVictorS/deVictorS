@@ -1,12 +1,3 @@
-
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=deVictorS&theme=tokyonight&cache_seconds=1800" />
-  <img height="181cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVictorS&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</div>
-
-
-
-
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
